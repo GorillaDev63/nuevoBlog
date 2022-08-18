@@ -11,3 +11,8 @@ body {
 #cabecera {
   background-color: yellow;
 }
+
+#mini {
+  background-color: tomato;
+  color: aliceblue;
+}
